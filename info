@@ -1,0 +1,17 @@
+Apps are => collection of connected components
+	4 types of components: Activity, Content Provider, Service, BroadCast Receiver
+	all of the components are registered in android manifest
+
+Activity: is the android component responsible for most app user interaction
+	: responsible for creating the window that your application uses to
+		draw and receive events from the system
+	: each activity contains a layout that provides teh system with detailed
+	: ac activity determines what views to create by reading an XML layout file.
+res folder => where android stores application resources
+layout => android stores all of its layout files in XML format
+
+FrameLayout, Linear Layout, Constraint Layout are the most common layout.
+FrameLayout:  is great for simple layout when you only have one child view
+LinearLayout: great for stacking views vertically or horizantally one after another.
+
+
